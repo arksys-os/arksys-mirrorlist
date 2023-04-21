@@ -1,0 +1,4 @@
+#######################################################
+
+# Direct Host From Spain (Europe)
+Server = https://raw.githubusercontent.com/arksys-os/arksys-repo/main/$arch
